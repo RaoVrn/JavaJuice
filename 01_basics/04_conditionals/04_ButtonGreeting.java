@@ -27,6 +27,8 @@ public class ButtonGreeting {
             System.out.println("Hello");
         } else if (button == 3) {
             System.out.println("Bonjour");
+        } else {
+            System.out.println("Invalid Button");
         }
 
         sc.close(); // Close the scanner after use
