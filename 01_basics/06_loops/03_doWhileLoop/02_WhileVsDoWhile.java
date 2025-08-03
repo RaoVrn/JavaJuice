@@ -1,4 +1,4 @@
-// 05_WhileVsDoWhile.java
+// 02_WhileVsDoWhile.java
 // JavaJuice - Concept Demo: Difference between while and do-while loop
 
 /*

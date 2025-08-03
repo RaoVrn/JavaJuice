@@ -1,4 +1,4 @@
-// 04_PrintNumbersDoWhile.java
+// 01_PrintNumbersDoWhile.java
 // JavaJuice - Homework: Print numbers from 0 to 10 using a do-while loop
 
 /*
