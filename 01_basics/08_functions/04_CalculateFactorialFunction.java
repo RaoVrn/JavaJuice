@@ -27,6 +27,11 @@ public class Function {
 
     // ✅ This function returns the factorial of a given number
     public static int calculateFactorial(int num) {
+        if(num < 0) {
+            System.out.println("Factorial is not defined for negative numbers.");
+            return -1; // Return -1 for invalid input
+        }
+        
         int fact = 1;
 
         // Multiply all numbers from 1 to num
