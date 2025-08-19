@@ -21,7 +21,7 @@ Constraints:
 
 
 
-// Optimal Approach
+// Method-1: Optimal Approach
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 import java.util.*;
